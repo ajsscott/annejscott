@@ -1,4 +1,6 @@
-# Welcome! I'm AJ Strauman-Scott. I use she/ella pronouns.
+# Welcome! I'm AJ Strauman-Scott. 
+
+🗣️ I use she/ella pronouns.
 
 🔭 **Machine Learning Engineer:** Building and deploying ML systems — from model training to production pipelines.
 
