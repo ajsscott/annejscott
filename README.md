@@ -2,7 +2,7 @@
 
 🗣️ I use she/ella pronouns.
 
-🔭 **Machine Learning Engineer:** Building and deploying ML systems — from model training to production pipelines.
+🔭 **Machine Learning Engineer:** I build open-source machine learning tools for education and the benefit of all.
 
 🏗️ **Industries**: I’ve worked in learning engineering, financial tech and television production.
 
